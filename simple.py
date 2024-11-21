@@ -1,6 +1,6 @@
 i=1
 while i<30:
-    print(i)
+    print(i,"hi")
     i+=3
 
 

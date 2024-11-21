@@ -1,5 +1,6 @@
 i=1
 while i<30:
     print(i)
-    i+=5
+    i+=3
+
 
